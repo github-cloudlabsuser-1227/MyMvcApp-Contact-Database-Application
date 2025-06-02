@@ -4,6 +4,12 @@
     ViewBag.Title = "Index";
 }
 
+@* Add this at the top of your Index.cshtml *@
+<form asp-action="Index" method="get" class="mb-3">
+    <input type="text" name="searchString" value="@(Context.Request.Query["searchString"])" placeholder="Search users..." />
+    <button type="submit">Search</button>
+</form>
+
 <h2>Index</h2>
 
 <p>
