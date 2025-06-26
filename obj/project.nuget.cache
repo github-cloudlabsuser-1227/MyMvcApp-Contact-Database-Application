@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gGSN5PcgHHk=",
+  "dgSpecHash": "oVnQzH+Kmfc=",
   "success": true,
-  "projectFilePath": "c:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp-Contact-Database-Application\\MyMvcApp.csproj",
+  "projectFilePath": "/workspaces/MyMvcApp-Contact-Database-Application/MyMvcApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
